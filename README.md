@@ -1,2 +1,2 @@
-# ARD
+# ADR
 Alpha Data Repo
